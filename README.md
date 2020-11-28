@@ -34,9 +34,31 @@
 ![alt img5](images/5b.PNG)
 
 ##### 6. Client di subnet 1 mendapatkan peminjaman alamat IP selama 5 menit, sedangkan client pada subnet 3 mendapatkan peminjaman IP selama 10 menit.
+![alt img6](images/6.PNG)
+
 ##### 7. User autentikasi milik Anri
+![alt img7](images/7a.PNG)
+![alt img7](images/7b.PNG)
+
+
 ##### 8. Membatasi penggunaan hanya pada setiap hari Selasa-Rabu pukul 13.00-18.00
+![alt img8](images/8a.PNG)
+![alt img8](images/8b.PNG)
+
+
 ##### 9. Membatasi penggunaan hanya pada setiap hari Selasa-Kamis pukul 21.00 - 09.00 keesokan harinya (sampai Jumat jam 09.00)
+![alt img9](images/9a.PNG)
+![alt img9](images/9b.PNG)
+![alt img9](images/9alt.PNG)
+
 ##### 10. Ketika mengakses google.com,di redirect menuju monta.if.its.ac.id
+![alt img10](images/10.PNG)
+
 ##### 11. Mengubah error page default squid
+![alt img11](images/11a.png)
+![alt img11](images/11b.png)
+
 ##### 12. Proxy cukup dengan mengetikkan domain janganlupa-ta.d02.pw dan memasukkan port 8080
+![alt img12](images/12a.PNG)
+![alt img12](images/12b.PNG)
+![alt img12](images/12c.png)
