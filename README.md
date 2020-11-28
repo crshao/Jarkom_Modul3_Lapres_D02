@@ -8,10 +8,31 @@
 -Alie Husaini R. 05111840000097
 
 ##### 1. Membuat topologi jaringan
+![alt img1](images/1a.PNG)
+![alt img1](images/1b.PNG)
+![alt img1](images/1c.PNG)
+![alt img1](images/1d.PNG)
+![alt img1](images/1e.PNG)
+![alt img1](images/1f.PNG)
+![alt img1](images/1g.PNG)
+![alt img1](images/1h.PNG)
+
 ##### 2. Surabaya menjadi perantara (DHCP Relay) antara DHCP Server dan client.
+![alt img2](images/2a.PNG)
+![alt img2](images/2b.PNG)
+![alt img2](images/2c.PNG)
+![alt img2](images/2d.PNG)
+
 ##### 3. Client pada subnet 1 mendapatkan range IP dari 192.168.0.10 sampai 192.168.0.100 dan 192.168.0.110 sampai 192.168.0.200.
+![alt img3](images/3.PNG)
+
 ##### 4. Client pada subnet 3 mendapatkan range IP dari 192.168.1.50 sampai 192.168.1.70.
+![alt img4](images/4.PNG)
+
 ##### 5. Client mendapatkan DNS Malang dan DNS 202.46.129.2 dari DHCP
+![alt img5](images/5a.PNG)
+![alt img5](images/5b.PNG)
+
 ##### 6. Client di subnet 1 mendapatkan peminjaman alamat IP selama 5 menit, sedangkan client pada subnet 3 mendapatkan peminjaman IP selama 10 menit.
 ##### 7. User autentikasi milik Anri
 ##### 8. Membatasi penggunaan hanya pada setiap hari Selasa-Rabu pukul 13.00-18.00
